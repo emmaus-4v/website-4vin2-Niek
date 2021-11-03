@@ -23,7 +23,7 @@ article {
 
 
 header {
-    color: skyblue;
+    color: black;
     text-align: center;
 }
 
@@ -60,7 +60,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color: #bebaba;
     overflow: hidden;
 }
 
@@ -81,7 +81,7 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: black;
 }
 
 
