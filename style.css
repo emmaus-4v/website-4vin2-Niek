@@ -3,7 +3,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
+    background-color: #ffffff;  
     
     color: #303030;
     font: Verdana, Arial, Sans-Serif;
@@ -36,9 +36,9 @@ footer {
 
 /* specifieke stijlen */
 
-img.zweefLinks {
-    float: left;
-    margin-right: 15px;
+img.zweefRechts {
+    float: right;
+    margin-left: 15px;
 }
 
 .smalltext {
@@ -77,7 +77,7 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: #000000;
 }
 
 nav li a.active {
