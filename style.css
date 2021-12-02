@@ -29,7 +29,6 @@ main {
 
 article {
     text-align: justify;
-    background-color: greenyellow
 }
 
 
@@ -71,7 +70,7 @@ img.zweefRechts {
 }
 
 a {
-    color: skyblue;
+    color: blue;
     text-decoration: none;
 }
 
@@ -97,7 +96,7 @@ nav li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 42.2px;
     text-decoration: none;
 }
 
