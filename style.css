@@ -22,19 +22,23 @@ html, body {
 
 main {
     margin: 0 auto;
-    width: 700px;
+    width: 900px;
     position: relative;
 }
 
 
 article {
     text-align: justify;
+    font-size: x-large;
+    background-color: rgba(10,150,10,50%);
 }
 
 
 header {
-    color: black;
+    color: white;
     text-align: center;
+    background-color: rgba(0,0,0,50%);
+    padding-bottom:0px;
 }
 
 
@@ -47,13 +51,13 @@ footer {
 
 /* Pagina layout */
 .kolomRechts {
-    width: 200px;
+    width: 300px;
     float: right;
     margin: 10px;
     border: solid black 3px;
 }
 .kolomLinks {
-    width: calc(100% - 200px - 40px);
+    width: calc(100% - 300px - 40px);
     float: left;
     margin: 10px;
 }
@@ -96,7 +100,7 @@ nav li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 42.2px;
+    padding: 14px 62.2px;
     text-decoration: none;
 }
 
