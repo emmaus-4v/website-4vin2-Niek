@@ -61,6 +61,17 @@ footer {
     float: left;
     margin: 10px;
 }
+.kolomLinks2 {
+    width: 450px;
+    float: left;
+    margin: 10px;
+    border: solid black 3px;
+}
+.kolomRechts2 {
+    width: calc(100% - 450px - 40px);
+    float: right;
+    margin: 10px;
+}
 
 /* specifieke stijlen */
 
