@@ -62,7 +62,6 @@ footer {
     margin: 10px;
 }
 .kolomLinks2 {
-    width: 450px;
     float: left;
     margin: 10px;
     border: solid black 3px;
@@ -118,6 +117,7 @@ nav li a {
 nav li a:hover {
     background-color: white;
     color: black;
+    transition: 1s;
 }
 
 nav li a.active {
